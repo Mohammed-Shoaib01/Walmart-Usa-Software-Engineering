@@ -3,7 +3,6 @@ A comprehensive repository documenting solutions and learnings from tackling sof
 
 
 
-# Walmart-TechSolutions
 
 ## About
 This repository contains solutions and insights derived from software engineering tasks inspired by real-world challenges at Walmart Global Tech. It aims to demonstrate technical skills, document learnings, and share knowledge on various software engineering concepts.
